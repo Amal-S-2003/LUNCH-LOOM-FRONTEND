@@ -1,0 +1,1 @@
+export const  sripe_publish_key=pk_test_51Qi7nzSCvIFowbimBf9FVXn2Lxv7sWQTWW2OOsiCqbuxt6I6qTweDJHXT4mtraL1a8s6sy4owODbdYjPSLBpIjcV00nnKl7Tjh
